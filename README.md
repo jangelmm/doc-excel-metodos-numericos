@@ -2,7 +2,7 @@
 
 Author: Jesús Ángel Martínez Mendoza
 
-Contacto: [Correo](jesusangelmartinezmendoza0702@gmail.com)
+Contacto: jesusangelmartinezmendoza0702@gmail.com
 
 - [1.0 Introducción a los métodos Numéricos](/1.0%20Introducción%20a%20los%20métodos%20Numéricos.md)
 - [2.0 Métodos de solución de ecuaciones](/2.0%20Métodos%20de%20solución%20de%20ecuaciones.md)
